@@ -28,3 +28,4 @@ navigation:
     link: ./another-page.html
 theme: minimalistic
  jekyll-remote-theme
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic

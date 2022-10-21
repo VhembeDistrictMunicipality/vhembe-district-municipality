@@ -1,4 +1,4 @@
-**[Home](https://vhembe district municipality.github.io/) >> [menu](https://vhembe district municipality.github.io/projects.html) >> Minimalistic**
+**[Home](https://vhembedistrictmunicipality.github.io/) >> [menu](https://vhembedistrictmunicipality.github.io/projects.html) >> Minimalistic**
 
 ## Minimalistic
 

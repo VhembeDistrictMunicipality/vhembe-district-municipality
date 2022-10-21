@@ -26,4 +26,5 @@ navigation:
         link: ./index.html#small-image
   - name: Another Page
     link: ./another-page.html
-theme: minimalisric
+theme: minimalistic
+ jekyll-remote-theme

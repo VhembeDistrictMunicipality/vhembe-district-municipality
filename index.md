@@ -1,4 +1,4 @@
-**[Home](https://vaibhavvikas.github.io/) >> [Projects](https://vaibhavvikas.github.io/projects.html) >> Minimalistic**
+**[Home](https://vhembe district municipality.github.io/) >> [menu](https://vhembe district municipality.github.io/projects.html) >> Minimalistic**
 
 ## Minimalistic
 
@@ -8,9 +8,9 @@
 [![Ruby Gem](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/actions/workflows/gem-push.yml/badge.svg)](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/actions/workflows/gem-push.yml)
 [![pages-build-deployment](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/actions/workflows/pages/pages-build-deployment)
 
-Minimalistic theme is based on gh-pages minimal theme, with navigation in the sidebar and super amazing features. Wanna see it in use in a portfolio? You can view a live demo of my portfolio at [vaibhavvikas.ml](https://vaibhavvikas.ml/).
+Minimalistic theme is based on gh-pages minimal theme, with navigation in the sidebar and super amazing features
 
-![Screenshot](https://user-images.githubusercontent.com/28614457/179896288-56255d9e-946a-4566-aca4-85459d403ff9.png)
+
 
 ## Features
 1. Auto light/dark mode.
@@ -131,10 +131,6 @@ navigation:
   - ...
 ```
 
-### Example:
-
-[Live Example](https://vaibhavvikas.github.io/jekyll-theme-minimalistic/)\
-[Code used in GitHub page](https://github.com/vaibhavvikas/jekyll-theme-minimalistic/tree/gh-pages)
 
 Lets say you have a file name xyz.md, you put that into the root dir. Now, add the text in step 1 at the top of the md file. After that for the text in _config.yml you will put it like:
 
